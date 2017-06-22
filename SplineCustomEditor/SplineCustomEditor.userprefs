@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\LineInspector.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\BezierCurveInspector.cs">
     <Files>
       <File FileName="Assets\Scripts And Components\Line.cs" Line="7" Column="24" />
       <File FileName="Assets\Editor\LineInspector.cs" Line="48" Column="34" />
+      <File FileName="Assets\Scripts And Components\BezierCurve.cs" Line="11" Column="4" />
+      <File FileName="Assets\Editor\BezierCurveInspector.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
