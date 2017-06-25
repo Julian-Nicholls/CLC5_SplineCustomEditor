@@ -6,17 +6,8 @@ using UnityEditor;
 [CustomEditor(typeof(Line))]
 public class LineInspector : Editor {
 
-
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	/* Class created to view and manipulate a line in the Unity Editor
+	*/ 
 
 	private void OnSceneGUI(){
 		Line line = target as Line;
